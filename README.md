@@ -1,16 +1,10 @@
 # flutter_element
 
-A new Flutter application.
+Flutter web 仿照element 实现 ，macos 体验还不错
 
-## Getting Started
+目前实现
+    1.element-ui button 按钮全部封装完成
+    2.element-ui Radio  单选按钮封装完成
+    3.element-icon 字体图标全部提取
+    继续代实现
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
